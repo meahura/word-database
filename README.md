@@ -1,5 +1,4 @@
-  <img src="https://img.shields.io/badge/data-database--farsi-o"/>
-  <img src = "https://img.shields.io/badge/English-word%20english-9cf"/>
+  <img src="https://img.shields.io/badge/data-database--farsi-o"/> <img src = "https://img.shields.io/badge/English-word%20english-9cf"/>
 
 # database - word 
 * **104025**  Persian word 
