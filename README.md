@@ -1,7 +1,7 @@
   <img src="https://img.shields.io/badge/data-database--farsi-o"/> <img src = "https://img.shields.io/badge/English-word%20english-9cf"/>
 
 # 𝐃𝐀𝐓𝐀𝐁𝐀𝐒𝐄 - 𝐖𝐎𝐑𝐃 
-**104025** 𝑷𝒆𝒓𝒔𝒊𝒂𝒏 𝒘𝒐𝒓𝒅
+* **104025** 𝑷𝒆𝒓𝒔𝒊𝒂𝒏 𝒘𝒐𝒓𝒅
 
 * **2999** 𝑬𝒏𝒈𝒍𝒊𝒔𝒉 𝒘𝒐𝒓𝒅
 # 𝐖𝐇𝐀𝐓 𝐃𝐎𝐄𝐒 𝐈𝐓 𝐃𝐎 𝐅𝐎𝐑 𝐌𝐄 : 
