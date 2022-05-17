@@ -23,4 +23,4 @@
 
 
 ---
- - Source of Japanese words  [wiktionary](https://en.wiktionary.org/) 
+ - Source of Japanese & Turkish words  [wiktionary](https://en.wiktionary.org/) 
