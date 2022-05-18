@@ -23,4 +23,5 @@
 
 
 ---
- - Source of Japanese words  [wiktionary](https://en.wiktionary.org/) 
+ - Source of Japanese & Turkish words  [wiktionary](https://en.wiktionary.org/) 
+ - Source of Arabic words [Mohammed Attia](https://sourceforge.net/u/mohammedattia/profile/)
