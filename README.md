@@ -1,6 +1,3 @@
-  <img src="https://skillicons.dev/icons?i=py,vscode"/> 
-  
-
 # what Does it do For Me :
 with the help of this file,you can access almost all persian letters some very important includ some example this use:
 <li> 
