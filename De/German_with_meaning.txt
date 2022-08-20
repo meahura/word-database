@@ -1,0 +1,536 @@
+# German words     English meaning
+
+# adjectives
+neu	    new
+gut	    good
+groß	big
+alt	    old
+hoch	high
+klein	small
+lang	long
+jung	young
+spät	late
+wichtig	important
+kurz	short
+früh	early
+schwer	heavy
+richtig	right
+schnell	fast
+leicht	light
+schlecht	bad
+falsch	wrong
+teuer	expensive
+langsam	slow
+niedrig	low
+kalt	cold
+glücklich	happy
+gesund	healthy
+laut	loud
+warm	warm
+billig	cheap
+krank	ill
+leise	quiet
+müde	tired
+
+# Animals
+die Katze	cat
+das Nashorn	rhino
+das Flusspferd	hippo
+das Krokodil	crocodile
+das Kaninchen	rabbit
+das Kamel	camel
+das Hühnchen	chicken
+das Huhn	chicken
+das Haustier	pet
+das Eichhörnchen	squirrel
+der Wolf	wolf
+der Wal	whale
+der Vogel	bird
+der Tiger	tiger
+der Skorpion	scorpion
+der Schwan	swan
+der Pinguin	penguin
+der Papagei	parrot
+der Löwe	lion
+der Krebs	crab
+der Käfer	beetle
+der Igel	hedgehog
+der Hirsch	deer
+der Hase	hare
+der Hamster	hamster
+der Hai	shark
+der Hahn	cock
+der Fuchs	fox
+der Frosch	frog
+der Fisch	fish
+er Esel	donkey
+der Elefant	elephant
+der Eisbär	polar bear
+der Delfin	dolphine
+der Dachs	badger
+der Bär	bear
+der Affe	monkey
+die Ziege	goat
+die Taube	pigeon
+die Spinne	spider
+die Schlange	snake
+die Schildkröte	turtle
+die Ratte	rat
+die Qualle	jellyfish
+die Maus	mouse
+die Kuh	cow
+die Krabbe	shrimp
+die Giraffe	giraffe
+die Gans	goose
+die Fledermaus	bat
+die Eule	owl
+die Ente	duck
+der Adler	eagle
+das Zebra	zebra
+das Tier	animal
+das Schwein	pig
+das Schaf	sheep
+das Pferd	horse
+der Hund	dog
+
+# Body Parts
+der Arm	arm
+das Bein	leg
+der Hals	neck
+die Brust	breast
+der Bauch	belly
+der Kopf	head
+das Gesicht	face
+der Rücken	back
+die Hand	hand
+der Ellenbogen	elbow
+der Finger	finger
+die Schulter	shoulder
+der Daumen	thumb
+der Muskel	muscle
+die Haut	skin
+das Haar	hair
+das Blut	blood
+das Knie	knee
+der Fuß	foot
+der Zeh	toe
+der Knöchel	ankle
+die Ferse	heel
+das Kinn	chin
+der Mund	mouth
+die Backe	cheek
+die Stirn	forehead
+das Auge	eye
+die Nase	nose
+die Zunge	tongue
+das Ohr	ear
+der Bart	beard
+die Augenbraue	eyebrow
+der Kiefer	jaw
+die Lippe	lip
+der Darm	intestine
+die Lunge	lung
+das Herz	heart
+die Leber	liver
+die Niere	kidney
+der Nerv	nerve
+die Ader	vene
+das Gehirn	brain
+das Organ	organ
+der Magen	stomach
+
+# German vocabulary about workplace, employment and economic terms.
+das Büro	office
+das Unternehmen	company
+der Chef	boss
+das Geld	money
+der Kollege	colleague
+das Gehalt	salary
+der Kunde	customer
+der Arbeitgeber	employer
+der Arbeitnehmer	employee
+das Produkt	product
+der Schreibtisch	desk
+der Drucker	printer
+der Anzug	suit
+die Krawatte	tie
+das Hemd	shirt
+der Beruf	profession
+die Karriere	career
+der Preis	price
+der Arbeiter	worker
+der Kredit	loan
+die Marke	brand
+der Briefumschlag	envelope
+der Brief	letter
+die Versicherung	insurance
+der Anruf	call
+die Zahlung	payment
+der Vertrag	contract
+der Auftrag	order
+die Industrie	industry
+die Dienstleistung	service
+das Konto	account
+der Termin	appointment
+der Gewinn	profit
+der Verlust	loss
+der Umsatz	sales / turnover
+die Arbeit	work
+der Wert	value
+die Steuer	tax
+die Bewerbung	job application
+die Währung	currency
+der Lebenslauf	CV / resume
+das Wachstum	growth
+die Bank	bank
+die Nachfrage	demand
+die Möglichkeit	opportunity
+das Netzwerk	network
+verdienen	to earn
+kaufen	to buy
+verkaufen	to sell
+bezahlen	to pay
+verhandeln	to negotiate
+präsentieren	to present
+
+# Names of Family Members
+der Vater	father
+die Mutter	mother
+die Eltern	parents
+das Kind	child
+der Sohn	son
+die Tochter	daughter
+der Bruder	brother
+die Schwester	sister
+die Großmutter	grandmother
+der Großvater	grandfather
+der Opa	grandpa
+die Oma	grandma
+der Enkel	grandchild
+der Enkelsohn	grandson
+die Enkeltochter	granddaughter
+der Onkel	uncle
+die Tante	aunt
+der Cousin	cousin
+die Cousine	cousin (female)
+der Neffe	nephew
+die Nichte	niece
+der Verlobte	fiancé
+die Verlobte	fiancée
+der Ehefrau	wife
+die Ehemann	husband
+der Schwiegervater	father-in-law
+die Schwiegermutter	mother-in-law
+der Schwiegersohn	son-in-law
+die Schwiegertochter	daughter-in-law
+der Schwager	brother-in-law
+die Schwägerin	sister-in-law
+die Familie	family
+
+#German legal words and terms
+das Gericht	court
+der Zeuge	witness
+der Richter	judge
+der Anwalt	lawyer
+unschuldig	innocent
+schuldig	guilty
+rechtlich	legal
+der Beweis	evidence
+der Betrug	fraud
+der Diebstahl	theft
+der Raub	robbery
+der Mord	murder
+der Schaden	damage
+der Unfall	accident
+das Gesetz	law
+der Vertrag	contract
+die Festnahme	arrest
+
+# numbers from 1 to 20
+eins	one
+zwei	two
+drei	three
+vier	four
+fünf	five
+sechs	six
+sieben	seven
+acht	eight
+neun	nine
+zehn	ten
+elf	    eleven
+zwölf	twelve
+dreizehn	thirteen
+vierzehn	fourteen
+fünfzehn	fifteen
+sechzehn	sixteen
+siebzehn	seventeen
+achtzehn	eighteen
+neunzehn	nineteen
+zwanzig	twenty
+
+# adjectives that describe personality
+tolerant	tolerant
+dynamisch	dynamic
+aggressiv	aggressive
+sympathisch	likeable
+kompetent	competent
+kreativ	    creative
+bescheiden	modest
+arrogant	arrogant
+weise	    wise
+hartnäckig	stubborn
+optimistisch	optimistic
+faul	lazy
+großzügig	generous
+verantwortungslos	irresponsible
+fleißig	diligent
+vernünftig	reasonable
+einfühlsam	empathetic
+sonderbar	weird
+loyal	loyal
+selbstbewusst	self-confident
+angenehm	pleasant
+geduldig	patient
+schüchtern	shy
+motiviert	motivated
+entschlossen	determined
+misstrauisch	distrustful
+gebildet	educated
+erfahren	experienced
+höflich	    polite
+romantisch	romantic
+mutig	brave
+spontan	    spontaneous
+ehrgeizig	ambitious
+zuverlässig	    reliable
+moralisch	ethical
+treu	faithful
+konsequent	consequent
+kompliziert	complicated
+eifersüchtig	jealous
+seltsam	strange
+bezaubernd	charming
+klug	clever
+intelligent	intelligent
+witzig	funny
+pünktlich	punctual
+sorgfältig	thorough
+fair	fair
+vorsichtig	careful
+realistisch	realistic
+überheblich	arrogant
+aufmerksam	attentive
+neugierig	curious
+komisch	    strange
+ehrlich	    honest
+ernst	serious
+dumm	stupid
+verrückt	crazy
+ungerecht	unfair
+ruhig	calm
+selbstlos	unselfish
+lustig	funny
+freundlich	friendly
+nett	nice
+natürlich	natural
+ungeduldig	impatient
+geschickt	skilled
+vertrauenswürdig	trustworthy
+anhänglich	clinging
+hilfsbereit	    helpful
+stur	stubborn
+zielstrebig	    determined
+wissbegierig	eager for knowledge
+egoistisch	selfish
+humorvoll	humorous
+sarkastisch	sarcastic
+kommunikativ	communicative
+undankbar	ungrateful
+verständnisvoll	    understanding
+anziehend	attractive
+launisch	moody
+gierig	greedy
+vergesslich	    oblivious
+diszipliniert	disciplined
+geizig	stingy
+cholerisch	choleric
+ausdauernd	persistent
+pessimistisch	pessimistic
+eingebildet	conceited
+verantwortungsvoll	responsible
+hinterhältig	devious
+redegewandt	eloquent
+zickig	touchy
+abergläubisch	superstitious
+vertrauensvoll	trustful
+idealistisch	idealistic
+eifrig	eager
+
+# Feelings and moods
+amüsiert	amused
+angespannt	tensed
+ängstlich	afraid
+apathisch	apathetic
+aufgeregt	excited
+bedrückt	depressed
+befriedigt	satisfied
+begeistert	excited
+beleidigt	offended
+berührt	touched
+beschämt	ashamed
+besorgt	worried
+beunruhigt	concerned
+bewegt	moved
+böse	angry
+dankbar	thankful
+deprimiert	depressed
+durstig	thirsty
+eifersüchtig	jealous
+eingeschüchtert	awed
+einsam	lonely
+entmutigt	discouraged
+entschlossen	determined
+entspannt	relaxed
+enttäuscht	disappointed
+erfreut	pleased
+erleichtert	relieved
+erschöpft	exhausted
+erschreckt	frightened
+erschrocken	shocked
+erstaunt	astonished
+erwartungsvoll	expectant
+fasziniert	intrigued
+froh	glad
+fröhlich	happy
+frustriert	frustrated
+gelangweilt	bored
+geringwertig	inferior
+gestresst	stressed
+gleichgültig	indifferent
+glücklich	happy
+hilflos	helpless
+hoffnungslos	hopeless
+hoffnungsvoll	hopeful
+hungrig	hungry
+inspiriert	inspired
+interessiert	interested
+irritiert	irritated
+motiviert	motivated
+müde	tired
+nachdenklich	thoughtful
+nervös	nervous
+optimistisch	optimistic
+ruhig	calm
+satt	full (had enough)
+schuldig	guilty
+sorgenfrei	worriless
+stolz	proud
+traurig	sad
+überrascht	surprised
+überwältigt	overwhelmed
+unentschlossen	undecided
+unglücklich	unhappy
+unruhig	restless
+unsicher	uncertain
+unzufrieden	discontented
+verängstigt	scared
+verärgert	upset
+verblüfft	stunned
+verlegen	embarrassed
+verletzlich	vulnerable
+verletzt	hurt
+verliebt	in love
+verwirrt	confused
+verwundert	astonished
+verzweifelt	desperate
+despaired
+wahnsinnig	mad
+wütend	angry
+zögernd	hesitant
+zornig	wrathful
+zufrieden	pleased
+zuversichtlich	confident
+
+#verbs for Beginners
+sein	to be
+werden	to become
+haben	to have
+können	to can
+to be able to
+müssen	to must
+to have to
+geben	to give
+sollen	to should
+to ought
+sagen	to say
+wollen	to want
+kommen	to come
+gehen	to go
+to walk
+machen	to do
+stehen	to stand
+sehen	to see
+finden	to find
+bleiben	to stay
+liegen	to lie
+stellen	to put
+nehmen	to take
+dürfen	to be allowed
+bringen	to bring
+halten	to hold
+spielen	to play
+heißen	to be called
+wissen	to know
+erklären	to explain
+gehören	to belong
+beginnen	to begin
+sprechen	to speak
+tun	to do
+mögen	to like
+gewinnen	to win
+bekommen	to get
+schreiben	to write
+arbeiten	to work
+treffen	to meet
+zahlen	to pay
+leben	to live
+laufen	to walk
+brauchen	to need
+feiern	to celebrate
+fahren	to drive
+suchen	to search
+legen	to put
+glauben	to believe
+scheinen	to seem
+schließen	to close
+fehlen	to lack
+to be missing
+to be absent
+kennen	to know
+fragen	to ask
+
+# names of weekdays, months and seasons
+der Frühling	spring
+der Herbst	autumn
+fall
+der Winter	winter
+der Sommer	summer
+der Januar	January
+der Februar	February
+der März	March
+der April	April
+der Mai	May
+der Juni	June
+der Juli	July
+der August	August
+der September	September
+der Oktober	October
+der November	November
+der Dezember	December
+der Montag	Monday
+der Dienstag	Tuesday
+der Mittwoch	Wednesday
+der Donnerstag	Thursday
+der Freitag	Friday
+der Samstag	Saturday
+der Sonntag	Sunday
