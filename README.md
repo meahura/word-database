@@ -10,3 +10,9 @@
 - منبع کره ای با معنی [dicts](https://www.dicts.info/)
 - منبع آلمانی با معنی [German languages](https://german.net/)
  - منبع آلمانی & فرانسوریی  & ایتالیایی & دانمارکی & هلندی & نروژی & اسپانیایی & آلمانی سوئیس [JUST WORDS](http://gwicks.net/justwords.htm)
+
+<a href="https://github.com/meahura/word-database/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=meahura/word-database" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
